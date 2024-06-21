@@ -1,0 +1,14 @@
+utils\PropertiesDriven.class
+runner\Testrunner.class
+utils\driverManager\ChromeDriverManager.class
+seleniungluecode\TestBase.class
+seleniungluecode\TestPageBCI.class
+pom\HomePage.class
+utils\ClaseBase.class
+utils\driverManager\DriverManager.class
+utils\driverManager\DriverManagerFactory$1.class
+pom\PlanCtaCtePage.class
+seleniungluecode\Hooks.class
+utils\driverManager\DriverManagerFactory.class
+utils\driverManager\FirefoxDriverManager.class
+utils\driverManager\DriverType.class
